@@ -88,10 +88,10 @@ Capacitação Regular: Investir em treinamentos periódicos garantiu que a equip
 Revisões Periódicas: A análise contínua dos dados e feedback permitiu ajustes e melhorias constantes na estratégia logística.
 
 ## Skills utilizadas:
-Figma,
-Power BI,
-Business.
-##Link do projeto: https://app.powerbi.com/view?r=eyJrIjoiNWZmYTc1OGUtOGNhNi00NWNkLWE3NjItYTVhNjRhYjdlODE4IiwidCI6ImZjNTJhZjY1LTc4YzEtNDFiMS1iZThmLWYyYWQxYTA1YzMxZSJ9 
+- **Figma, Power BI, Business.**
+
+## Link do projeto:
+https://app.powerbi.com/view?r=eyJrIjoiNWZmYTc1OGUtOGNhNi00NWNkLWE3NjItYTVhNjRhYjdlODE4IiwidCI6ImZjNTJhZjY1LTc4YzEtNDFiMS1iZThmLWYyYWQxYTA1YzMxZSJ9 
 
 ## Contato
 
